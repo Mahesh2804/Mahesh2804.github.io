@@ -1,0 +1,54 @@
+#header{
+    display:grid;
+    grid-template-columns: 2fr 5fr;
+    background:black;
+    color:white;
+}
+#image{
+    height: 150px;
+    width:  150px;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+}
+#name{
+    letter-spacing:0.1cm;
+    font-weight:bold;
+    margin-top:20px;
+}
+#prof{
+    background:#CDCDCF;
+    padding: 10px;
+
+}
+#wrapper{
+    padding:0px;
+    margin-top:50px;
+}
+#edu{
+    background:#CDCDCF;
+    padding: 10px;
+
+}
+#svg{
+    height:1cm;
+    margin-left:40px;
+}
+#left-mrgm{
+    margin-left:40px;
+    font-weight: bold;
+}
+.table{
+    padding: 10px;
+}
+#str{
+    background:#CDCDCF;
+    padding:10px;
+
+}
+proj{
+    background:#CDCDCF;
+    
+
+}
+
